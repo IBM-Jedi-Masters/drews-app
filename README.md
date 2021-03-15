@@ -1,3 +1,5 @@
+# This project is based on tutorial from Brian Design https://www.youtube.com/watch?v=iP_HqoCuRI0&t=5093s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
